@@ -1,0 +1,21 @@
+.carousel-item img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .carousel-indicators {
+    bottom: 20px;
+  }
+  .product-card img {
+    max-height: 200px;
+    object-fit: contain;
+  }
+  .product-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 30px 20px 30px 80px;
+  }
+  .product-card {
+    width: 16rem; 
+  }
